@@ -1,0 +1,7 @@
+streamlit
+groq
+requests
+folium
+streamlit-folium
+geopy
+python-docx
